@@ -29,8 +29,7 @@ Se presenta un dolor intenso el pecho, conocido como dolor precordial. Este dole
 
 ## Acciones del corazon
 - Diastólica: Cuando el musculo del corazón se relaja
-- Sistólica: Cuando el musculo del corazón se 
-contrae (late)
+- Sistólica: Cuando el musculo del corazón se contrae (late)
 
 ## Frecuencia cardiaca
 Valores mayores a 100bpm de forma repentina y se le asocia con una disnea.
@@ -38,8 +37,8 @@ Valores mayores a 100bpm de forma repentina y se le asocia con una disnea.
 ## Idea del proyecto
 Si bien solo con el pulso arterial no se puede precedir si se va atener un paro cardiaco (solo si tiene arritmeas), con un ECG si se pued. Es por eso que, si se nota una arritmea cardiaca de forma repentina se le sugiere al usuario que se practique un **Electrocardiograma** con el reloj y de acuerdo a los resultados se define si debe ir al doctor.
 
-## ECG
-Interpreta la funcionalidad de corazón a travez de las ondas cardicas y las traduce de forma visual.
+## EKG
+Interpreta la funcionalidad de corazón a travez de las ondas cardicas. Se debe [aprender a leer un EKG](https://www.my-ekg.com/como-leer-ekg.html) para eseñarle al modelo a interpretarlo.
 
 ## Sedentarismo
 Nuestra muestra deben ser personas con sedentarismo, porque ellos tienen problemas en el colesterol y trigliceridos, y so desencadena problemas cardiacos. Debido a que, no realizan ejercicios fisicos y son mas propensos a diferentes enfermedades.
