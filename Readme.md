@@ -4,7 +4,8 @@
 
 - Universo: Todos lo varones
 - Población: Varones de 50 años a más
-- Muestra: Varones de mayores de 50 años con:
+- Muestra: 
+    - Varones mayores de 50 años a más
     - Hipertension
     - Ateroesclerosis
     - Sobrepeso
