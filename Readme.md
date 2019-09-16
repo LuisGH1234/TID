@@ -11,8 +11,9 @@
     - Obesisdad
     - Sedentarismo
 
-## ¿Sintomas de una persona previo al paro?
+## ¿Sintomas de una persona previo al paro (Prodomos)?
 
+Los prodomos son sintomas que desencadenan un paro cardiaco.
 ### Postura
 Se presenta dificultad para mantenerse erguido.
 
@@ -21,8 +22,8 @@ Es la sensación y solo la sensación de falta de aire, es decir, ahogamiento y 
 
 El ahogamiento solo sucede con personas que tienen enfermedades respiratorios como **Neumonia o Asma**, pero para ese caso no se le llama disnea.
 
-### Dolor en el pecho
-Se presenta un dolor intenso el pecho, conocido como dolor precordial. Este dolencia se extiende desde el hombro hasta el pecho y con una particular posicion en de la mano izquierda en el centro o lado derecho del pecho. Este dolor es tan fuerte que siente que se fuese a morir.
+### Angina de pecho
+Se presenta un dolor intenso el pecho, conocido como dolor precordial. Este dolencia se extiende desde el pecho hasta el hombro y finalmente todo el brazo derecho con una particular posicion de la mano izquierda en el centro o lado derecho del pecho. Este dolor es tan fuerte que siente que se fuese a morir.
 
 
 ## Acciones del corazon
@@ -31,7 +32,7 @@ Se presenta un dolor intenso el pecho, conocido como dolor precordial. Este dole
 contrae (late)
 
 ## Frecuencia cardiaca
-Valores mayores a 100bpm de forma repentina y se le asocia con una disnea falsa
+Valores mayores a 100bpm de forma repentina y se le asocia con una disnea.
 
 ## Idea del proyecto
 Si bien solo con el pulso arterial no se puede precedir si se va atener un paro cardiaco (solo si tiene arritmeas), con un ECG si se pued. Es por eso que, si se nota una arritmea cardiaca de forma repentina se le sugiere al usuario que se practique un **Electrocardiograma** con el reloj y de acuerdo a los resultados se define si debe ir al doctor.
